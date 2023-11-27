@@ -1,5 +1,5 @@
 **RichMan**
-This is a simple calculator application written in C# and .NET Framework. 
+*This is a simple calculator application written in C# and .NET Framework. 
 **Installation and usage**
 To run this project, you need to have Visual Studio 2019 or later and .NET Framework 4.7.2 or later installed on your machine. You can download them from here and here, respectively.
 To install and run this project, follow these steps:
